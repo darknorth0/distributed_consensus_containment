@@ -1,5 +1,5 @@
 # distributed_consensus_containment
-MATLAB implementation of the paper "Distributed Optimization of Average Consensus Containment with Multiple Stationary Leaders" [arXiv 2022].
+**MATLAB** implementation of the paper [Distributed Optimization of Average Consensus Containment with Multiple Stationary Leaders](https://arxiv.org/abs/2203.16451)
 
 ## Usage : 
 
