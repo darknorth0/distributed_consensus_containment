@@ -11,3 +11,11 @@ CVX package is required to be pre-installed with the MATLAB.
 
 ## Reference : 
 
+```bibtex
+@article{chatterjee2022distributed,
+  title={Distributed Optimization of Average Consensus Containment with Multiple Stationary Leaders},
+  author={Chatterjee, Sushobhan and Kalaimani, Rachel Kalpana},
+  journal={arXiv preprint arXiv:2203.16451},
+  year={2022}
+}
+```
