@@ -18,10 +18,14 @@ This implementation provides a setup as demonstrated in the paper having 24 agen
 
 
 ```bibtex
-@article{chatterjee2022distributed,
-  title={Distributed Optimization of Average Consensus Containment with Multiple Stationary Leaders},
+@INPROCEEDINGS{9838420,
   author={Chatterjee, Sushobhan and Kalaimani, Rachel Kalpana},
-  journal={arXiv preprint arXiv:2203.16451},
-  year={2022}
-}
+  booktitle={2022 European Control Conference (ECC)}, 
+  title={Distributed Optimization of Average Consensus Containment with Multiple Stationary Leaders}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1838-1843},
+  doi={10.23919/ECC55457.2022.9838420}
+  }
 ```
